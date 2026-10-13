@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@blanlewis0/lewis-tms-shared-ui": "github:blanlewis/lewis-tms-shared-ui",
     "next": "16.4.0",
     "react": "19.3.0",
     "react-dom": "19.3.0"
