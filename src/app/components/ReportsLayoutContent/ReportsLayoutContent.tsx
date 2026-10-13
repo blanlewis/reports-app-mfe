@@ -2,7 +2,7 @@
 "use client";
 
 import { useSearchParams } from "next/navigation";
-import CustomSidebar from "../CustomSidebar";
+import { CustomSidebar } from "@blanlewis0/lewis-tms-shared-ui";
 
 const allNavigationItems = [
   { label: "Dashboard", href: "/", icon: "🏠" },
